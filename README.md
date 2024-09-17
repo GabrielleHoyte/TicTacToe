@@ -1,22 +1,10 @@
-# 📊 Morning Challenge: Tic-Tac-Toe
+# TicTacToe
+ 
+A Spongebob "Eels and Escalators" themed TicTacToe game that allows two players to play a short match and replay
 
-### Goal: Create a two player Tic-Tac-Toe game. The users should be able to click to place their X or O and if they win the program should mention their win in the DOM. Please make the game as OOP as possible.
+#### Link to Project: 
 
-### How to submit your code for review:
+![Screen Shot 2022-05-01 at 5 31 44 PM](https://user-images.githubusercontent.com/101993328/166165402-c845d0ac-6754-45b6-9788-dbc5b9b6fbda.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made:
+Tech used: HTML, CSS, JavaScript
